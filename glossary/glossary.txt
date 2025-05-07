@@ -1,0 +1,2 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Appalachia	la región de los Apalaches	entrada de prueba
