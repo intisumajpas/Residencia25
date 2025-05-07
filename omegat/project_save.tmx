@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>In their quests, both discover grotesquely fallen worlds, haunted by poverty, ignorance, and sheer malice.</seg>
+      </tuv>
+      <tuv lang="es-LA" changeid="gabrielt" changedate="20250507T212858Z" creationid="gabrielt" creationdate="20250507T212858Z">
+        <seg>En sus búsquedas, ambos</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
