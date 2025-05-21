@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>And smart, don’t think they ain’t.</seg>
+      </tuv>
+      <tuv lang="es-LA" changeid="estudiante" changedate="20250521T024433Z" creationid="estudiante" creationdate="20250521T024433Z">
+        <seg>Y pillo, pillo, [prueba]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And that’s about all ye can say about him.</seg>
+      </tuv>
+      <tuv lang="es-LA" changeid="estudiante" changedate="20250521T024423Z" creationid="estudiante" creationdate="20250521T024423Z">
+        <seg>Y qué onda [prueba]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pure and simple.</seg>
+      </tuv>
+      <tuv lang="es-LA" changeid="estudiante" changedate="20250521T024412Z" creationid="estudiante" creationdate="20250521T024412Z">
+        <seg>Simple</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
